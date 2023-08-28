@@ -8,3 +8,7 @@ cols:
 
 df:
   save: ../data/intermediate/folk-metal-merged.csv
+
+scrape:
+  url: https://en.wikipedia.org/wiki/List_of_folk_metal_bands
+  save: ../data/raw/folk_metal_bands.csv

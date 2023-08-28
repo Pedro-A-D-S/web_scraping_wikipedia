@@ -27,70 +27,72 @@
 25,Falconer,Sweden,1999,[31]
 26,Falkenbach,Germany,1989,[15]
 27,Finntroll,Finland,1997,[32]
-28,Folkearth,International,2003,[33]
-29,Folkheim,Chile,2003,[34]
-30,Forefather,England,1997,[35][36]
-31,Geasa,Ireland,1994,[24]
-32,Glittertind,Norway,2001,[37]
-33,Gostwind,South Korea,2004,[38]
-34,Harmasar,Moldova,2013,[39]
-35,Heidevolk,Netherlands,2002,[40]
-36,Holy Blood,Ukraine,1999,[41]
-37,Huldre,Denmark,2009,
-38,In Extremo,Germany,1996,[42]
-39,Ithilien,Belgium,2005,[43]
-40,Kampfar,Norway,1994,[44]
-41,Kanseil,Italy,2010,[45]
-42,Kivimetsän Druidi,Finland,2002,[46]
-43,Korpiklaani,Finland,1993,[47][48]
-44,Leah,Canada,2011,[49]
-45,Letzte Instanz,Germany,1996,[50]
-46,Lumsk,Norway,1999,[51]
-47,Lyriel,Germany,2003,[52]
-48,Mael Mórdha,Ireland,1998,[53]
-49,Mägo de Oz,Spain,1989,[54]
-50,Metsatöll,Estonia,1998,[55]
-51,Midnattsol,Germany,2003,[56]
-52,Mithotyn,Sweden,1992,[31]
-53,Moonsorrow,Finland,1995,[57]
-54,Myrath,Tunisia,2001,[58]
-55,Nine Treasures,China,2010,[59]
-56,Obtest,Lithuania,1992,
-57,Onmyo-Za,Japan,1999,
-58,Orphaned Land,Israel,1991,
-59,Percival Schuttenbach,Poland,1999,
-60,Saltatio Mortis,Germany,2000,[60]
-61,Saurom,Spain,1996,
-62,Schandmaul,Germany,1998,[61]
-63,Scythia,Canada,2010,[62]
-64,Skálmöld,Iceland,2009,[63]
-65,Skyclad,England,1990,[64][65]
-66,Skyforger,Latvia,1995,[66]
-67,Slough Feg,United States,1990,[67]
-68,Storm,Norway,1994,[68]
-69,Subway to Sally,Germany,1992,[69]
-70,Suidakra,Germany,1994,[70]
-71,Summoning,Austria,1993,[71]
-72,Svartsot,Denmark,2005,[72]
-73,Tanzwut,Germany,1998,[73]
-74,Tengger Cavalry,United States,2010,
-75,The HU,Mongolia,2016,
-76,Thyrfing,Sweden,1995,[74]
-77,Trollfest,Norway,2003,
-78,Tuatha de Danann,Brazil,1995,[75]
-79,Tumulus,Russia,1997,[76]
-80,Turisas,Finland,1997,[77]
-81,Týr,Faroe Islands,1998,[78]
-82,Ulver (early),Norway,1993,
-83,Vanir,Denmark,2009,
-84,Varang Nord,Latvia,2014,[79]
-85,Vardøger,Norway,1994,[80]
-86,Viikate,Finland,1996,
-87,Vintersorg,Sweden,1994,[81]
-88,Waylander,Northern Ireland,1993,[24][82]
-89,Windir,Norway,1994,[83]
-90,Wind Rose,Italy,2009,
-91,Wintersun,Finland,2004,[84]
-92,Wolfchant,Germany,2003,
-93,Wytch Hazel,England,2011,[85]
-94,Ymyrgar,Tunisia,2012,[86]
+28,Finsterforst,Germany,2004,
+29,Folkearth,International,2003,[33]
+30,Folkheim,Chile,2003,[34]
+31,Forefather,England,1997,[35][36]
+32,Geasa,Ireland,1994,[24]
+33,Glittertind,Norway,2001,[37]
+34,Gostwind,South Korea,2004,[38]
+35,Harmasar,Moldova,2013,[39]
+36,Heidevolk,Netherlands,2002,[40]
+37,Holy Blood,Ukraine,1999,[41]
+38,Huldre,Denmark,2009,
+39,In Extremo,Germany,1996,[42]
+40,Ithilien,Belgium,2005,[43]
+41,Kampfar,Norway,1994,[44]
+42,Kanseil,Italy,2010,[45]
+43,Kivimetsän Druidi,Finland,2002,[46]
+44,Korpiklaani,Finland,1993,[47][48]
+45,Leah,Canada,2011,[49]
+46,Letzte Instanz,Germany,1996,[50]
+47,Lumsk,Norway,1999,[51]
+48,Lyriel,Germany,2003,[52]
+49,Mael Mórdha,Ireland,1998,[53]
+50,Mägo de Oz,Spain,1989,[54]
+51,Metsatöll,Estonia,1998,[55]
+52,Midnattsol,Germany,2003,[56]
+53,Mithotyn,Sweden,1992,[31]
+54,Moonsorrow,Finland,1995,[57]
+55,Myrath,Tunisia,2001,[58]
+56,Nine Treasures,China,2010,[59]
+57,Obtest,Lithuania,1992,
+58,Onmyo-Za,Japan,1999,
+59,Orphaned Land,Israel,1991,
+60,Percival Schuttenbach,Poland,1999,
+61,Saltatio Mortis,Germany,2000,[60]
+62,Saurom,Spain,1996,
+63,Schandmaul,Germany,1998,[61]
+64,Scythia,Canada,2010,[62]
+65,Skálmöld,Iceland,2009,[63]
+66,Skyclad,England,1990,[64][65]
+67,Skyforger,Latvia,1995,[66]
+68,Slough Feg,United States,1990,[67]
+69,Storm,Norway,1994,[68]
+70,Storm Seeker,Germany,2013,
+71,Subway to Sally,Germany,1992,[69]
+72,Suidakra,Germany,1994,[70]
+73,Summoning,Austria,1993,[71]
+74,Svartsot,Denmark,2005,[72]
+75,Tanzwut,Germany,1998,[73]
+76,Tengger Cavalry,United States,2010,
+77,The HU,Mongolia,2016,
+78,Thyrfing,Sweden,1995,[74]
+79,Trollfest,Norway,2003,
+80,Tuatha de Danann,Brazil,1995,[75]
+81,Tumulus,Russia,1997,[76]
+82,Turisas,Finland,1997,[77]
+83,Týr,Faroe Islands,1998,[78]
+84,Ulver (early),Norway,1993,
+85,Vanir,Denmark,2009,
+86,Varang Nord,Latvia,2014,[79]
+87,Vardøger,Norway,1994,[80]
+88,Viikate,Finland,1996,
+89,Vintersorg,Sweden,1994,[81]
+90,Waylander,Northern Ireland,1993,[24][82]
+91,Windir,Norway,1994,[83]
+92,Wind Rose,Italy,2009,
+93,Wintersun,Finland,2004,[84]
+94,Wolfchant,Germany,2003,
+95,Wytch Hazel,England,2011,[85]
+96,Ymyrgar,Tunisia,2012,[86]
