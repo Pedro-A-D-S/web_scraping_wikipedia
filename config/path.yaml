@@ -1,0 +1,10 @@
+path:
+  continent: ../data/raw/data.json
+  folk-metal: ../data/raw/folk_metal_bands.csv
+
+cols:
+  drop: ['Unnamed: 0', 'Notes', 'country']
+  rename: {'continent': 'Continent'}
+
+df:
+  save: ../data/intermediate/folk-metal-merged.csv
