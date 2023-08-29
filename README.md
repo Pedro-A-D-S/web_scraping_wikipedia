@@ -21,29 +21,39 @@ O projeto foi criado usando o seguinte template:
 ├── .github
 │   ├── workflows
 │   │   └── schedule.yaml
-|   │   └── pylint.yaml
 ├── config
 │   └── path.yaml
 ├── data
 │   ├── intermediate
 │   │   └── folk-metal-merged.csv
-│   └── raw
-│       ├── data.json
-│       └── folk_metal_bands.csv
+│   ├── raw
+│   │   ├── data.json
+│   │   └── folk_metal_bands.csv
+│   ├── reports
+│   │   └── images
+│   │       ├── formed_bands_by_continent.png
+│   │       ├── formed_bands.png
+│   │       └── top_10_countries.png
+│   └── viz
+│       ├── formed_bands_by_continent.csv
+│       ├── formed_bands.csv
+│       └── top_10_countries.csv
+├── LICENSE
 ├── logs
 ├── notebooks
 │   ├── 01_merge_data.ipynb
 │   └── 02_DataViz.ipynb
 ├── README.md
 └── src
+    ├── dataviz.py
     ├── __init__.py
+    ├── merge_data.py
     ├── requirements.txt
     └── scrape_folk_metal_bands.py
 ```
 O template inclui as seguintes ferramentas e arquivos:
 
 * `.github/workflows/schedule.yaml`: Arquivo de configuração do GitHub Actions para agendar a execução do script Python.
-* `.github/workflows/pylint.yaml`: Arquivo de configuração do GitHub Actions para executar o Pylint.
 * `config/path.yaml`: Arquivo de configuração com os caminhos dos arquivos de entrada e saída.
 * `data/intermediate/folk-metal-merged.csv`: Arquivo CSV com os dados de entrada e saída do script Python.
 * `data/raw/data.json`: Arquivo JSON com os dados de entrada do script Python.
