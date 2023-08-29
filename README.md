@@ -26,16 +26,28 @@ O projeto foi criado usando o seguinte template:
 ├── data
 │   ├── intermediate
 │   │   └── folk-metal-merged.csv
-│   └── raw
-│       ├── data.json
-│       └── folk_metal_bands.csv
+│   ├── raw
+│   │   ├── data.json
+│   │   └── folk_metal_bands.csv
+│   ├── reports
+│   │   └── images
+│   │       ├── formed_bands_by_continent.png
+│   │       ├── formed_bands.png
+│   │       └── top_10_countries.png
+│   └── viz
+│       ├── formed_bands_by_continent.csv
+│       ├── formed_bands.csv
+│       └── top_10_countries.csv
+├── LICENSE
 ├── logs
 ├── notebooks
 │   ├── 01_merge_data.ipynb
 │   └── 02_DataViz.ipynb
 ├── README.md
 └── src
+    ├── dataviz.py
     ├── __init__.py
+    ├── merge_data.py
     ├── requirements.txt
     └── scrape_folk_metal_bands.py
 ```

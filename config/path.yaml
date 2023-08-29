@@ -12,3 +12,13 @@ df:
 scrape:
   url: https://en.wikipedia.org/wiki/List_of_folk_metal_bands
   save: ../data/raw/folk_metal_bands.csv
+
+viz:
+  top_10_countries: ../data/reports/images/top_10_countries.png
+  formed_bands: ../data/reports/images/formed_bands.png
+  formed_bands_by_continent: ../data/reports/images/formed_bands_by_continent.png
+
+agg:
+  top_10_countries: ../data/viz/top_10_countries.csv
+  formed_bands: ../data/viz/formed_bands.csv
+  formed_bands_by_continent: ../data/viz/formed_bands_by_continent.csv
